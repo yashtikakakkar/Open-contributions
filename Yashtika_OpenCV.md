@@ -1,5 +1,5 @@
-## OpenCV Topics
-
+# OpenCV Topics
+```
 1. Reading and Displaying Images
 2. Changing Color Spaces [HSV & BGR (or RGB)]
 3. Translating, Resizing and Rotating an Image
@@ -10,3 +10,4 @@
 8. Face Detection
 9. Object Detection
 10. Image Segmentation
+```
